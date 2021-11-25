@@ -3,3 +3,9 @@
 margin-left: auto;
 margin-right: auto;
 }
+.navsivussa {
+  float: left;
+}
+.inlinelinkki {
+  display: inline;
+}
