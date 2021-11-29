@@ -64,3 +64,14 @@ li a:hover {
     color: #FF7BB9;
     border:40px solid transparent;
 }
+
+  body {
+  background: #181818;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
