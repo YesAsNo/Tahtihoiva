@@ -57,7 +57,7 @@ li a:hover {
   max-width: 1000px
 }
 
-  .thotsikko {
+  h1.thotsikko {
     font-family: 'Playball';
     font-size: 40px;
     text-align: center;
@@ -69,7 +69,7 @@ li a:hover {
   background: #181818;
 }
 
-.content {
+div.content {
   max-width: 500px;
   margin: auto;
   background: #181818;
