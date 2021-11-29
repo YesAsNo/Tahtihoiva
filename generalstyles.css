@@ -56,3 +56,10 @@ li a:hover {
 .sisennys {
   max-width: 1000px
 }
+
+  .thotsikko {
+    font-family: 'Playball';
+    font-size: 40px;
+    text-align: center;
+    color: #FF7BB9;
+}
