@@ -3,6 +3,9 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 40px;
 }
+body {
+  background-color: #181818;
+}
 
 ul {
   list-style-type: none;
@@ -37,8 +40,4 @@ li a:hover {
     text-align: center;
     color: #FF7BB9;
     border:40px solid transparent;
-}
-.row {
-    display: flex;
-    flex-wrap: wrap;
   }
