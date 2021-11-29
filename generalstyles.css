@@ -31,32 +31,6 @@ li a:hover {
   box-sizing: border-box;
 }
 
-/* Create three unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-  height: 1500px; /* Should be removed. Only for demonstration */
-}
-
-.left, .right {
-  width: 25%;
-}
-
-.middle {
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.sisennys {
-  max-width: 1000px
-}
-
   h1.thotsikko {
     font-family: 'Playball';
     font-size: 40px;
@@ -64,3 +38,7 @@ li a:hover {
     color: #FF7BB9;
     border:40px solid transparent;
 }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+  }
