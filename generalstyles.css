@@ -2,6 +2,11 @@ h2 {
   color: #FF7BB9;
   font-family: 'Montserrat', sans-serif;
   font-size: 40px;
+  font-weight: 700;
+  padding: 10px;
+}
+p {
+  font-size 20px;
 }
 .content {
   background-color: #181818;
@@ -10,7 +15,7 @@ h2 {
   text-align: center;
 }
 .keskitys {
-    max-width: 500px;
+    max-width: 1000px;
   margin: auto;
 }
 ul {
