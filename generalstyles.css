@@ -5,19 +5,27 @@ h2 {
   font-weight: 700;
   padding: 27px;
 }
+
 p {
   font-size: 20px;
 }
+
+body {
+    background-color: #181818;
+}
+
 .content {
   background-color: #181818;
   color: white;
-  margin: 0 auto;
+  margin: 0;
   text-align: center;
 }
+
 .keskitys {
     max-width: 800px;
-  margin: 0 auto;
+  margin: 0;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
