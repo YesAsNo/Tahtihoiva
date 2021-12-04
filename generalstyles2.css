@@ -46,6 +46,10 @@ li {
   float: left;
 }
 
+.lista {
+  float: none;
+}
+
 li a {
   display: block;
   color: white;
