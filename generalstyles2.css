@@ -1,1 +1,68 @@
-yes
+h2 {
+  color: #FF7BB9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  padding: 27px;
+}
+
+p {
+  font-size: 20px;
+}
+
+body {
+    background-color: #181818;
+}
+
+footer {
+    background-color: #181818;
+  text-align: center;
+  color: white;
+}
+
+.content {
+  background-color: #181818;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.keskitys {
+    max-width: 800px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #181818;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+
+  * {
+  box-sizing: border-box;
+}
+
+  h1.thotsikko {
+    font-family: 'Playball';
+    font-size: 40px;
+    text-align: center;
+    color: #FF7BB9;
+    border:40px solid transparent;
+  }
