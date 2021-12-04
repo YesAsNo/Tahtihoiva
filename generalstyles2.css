@@ -10,13 +10,6 @@ p {
   font-size: 20px;
 }
 
-.listarakenne {
-  font-size: 20px;
-  text-align: left;
-  list-style-type: circle;
-  color: white;
-}
-
 body {
     background-image: url("https://images.unsplash.com/photo-1603988274110-e082e7b3326e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80");
     background-size: cover;
@@ -80,3 +73,9 @@ li a:hover {
     color: #FF7BB9;
     border:40px solid transparent;
   }
+.listarakenne {
+  font-size: 20px;
+  text-align: left;
+  list-style-type: circle;
+  color: white;
+}
