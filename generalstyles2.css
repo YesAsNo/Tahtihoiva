@@ -126,26 +126,14 @@ textarea {
   resize: none;
 }
 
-[placeholder]::-webkit-input-placeholder { color: rgba(255,255,255,.8); }
-[placeholder]:hover::-webkit-input-placeholder { color: rgba(255,255,255,.4); }
-[placeholder]:focus::-webkit-input-placeholder { color: transparent; }
-
-[placeholder]::-moz-placeholder { color: rgba(255,255,255,.8); }
-[placeholder]:hover::-moz-placeholder { color: rgba(255,255,255,.4); }
-[placeholder]:focus::-moz-placeholder { color: transparent; }
-
-[placeholder]:-ms-input-placeholder { color: rgba(255,255,255,.8); }
-[placeholder]:hover:-ms-input-placeholder { color: rgba(255,255,255,.4); }
-[placeholder]:focus:-ms-input-placeholder { color: transparent; }
-
 form {
-  width: 400px;
+  width: 600px;
   margin: 50px auto;
 }
 
 input[type="text"] {
   display: block;
-  width: 400px;
+  width: 600px;
   margin: 0 0 20px;
   padding: 8px 12px 10px 12px;
   border: 1px solid rgba(0,0,0,.5);
@@ -154,7 +142,7 @@ input[type="text"] {
 
 textarea {
   display: block;
-  width: 400px;
+  width: 600px;
   height: 150px;
   margin: 0 0 20px;
   padding: 8px 12px 10px 12px;
