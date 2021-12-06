@@ -121,7 +121,7 @@ textarea {
   height: 150px;
   margin: 0 0 20px;
   padding: 8px 12px 10px 12px;
-  border: 1px solid rgba(0,0,0,.5);
+  border: 1px solid white;
   background-color: #181818;
 }
 
