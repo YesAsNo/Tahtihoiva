@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <title>Tähtihoiva Oy</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <! --- fonteille --->
+  <link href='https://fonts.googleapis.com/css?family=Playball' rel='stylesheet'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+    <! --- tyyleille --->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://yesasno.github.io/Tahtihoiva/generalstyles2.css">
+  <! --- scripteille --->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+ 
+<nav>
+<ul>
+  <div>
+  <li><a class="active" href="https://yesasno.github.io/Tahtihoiva/etusivu">Tähtihoiva Oy</a></li>
+  <li style="float:right"><a class="active" href="https://yesasno.github.io/Tahtihoiva/contact">Ota yhteyttä</a></li>
+  <li style="float:right"><a class="active" href="https://yesasno.github.io/Tahtihoiva/hinnasto">Hinnasto</a></li>
+  <li style="float:right"><a class="active" href="https://yesasno.github.io/Tahtihoiva/palvelut">Palvelut</a></li>
+  <li style="float:right"><a class="active" href="https://yesasno.github.io/Tahtihoiva/etusivu">Etusivu</a></li>
+    </div>
+</ul>
+  </nav>
+  
+<body>
+  <div class="content">
+    <div class="keskitys">
+<h2>Hinnasto</h2>
+<p>- Arkiaamut (klo 06-18) 31€/h</p>
+<p>- Arki-illat (klo 18-24) 37€/h</p>
+<p>- Lauantaiaamut (klo 06-18) 42€/h</p>
+<p>- Lauantai-illat (klo 18-24) 50€/h</p>
+<p>- Sunnuntai- ja pyhäaamut 55€/h</p>
+<p>- Sunnuntai- ja pyhäillat 60€/h</p>
+<p>- Yöt sopimuksen mukaan</p>
+<p>- Kotisiivous 34€/h</p>
+    </div>
+</div>
+      <footer>
+    <p>Copyright ©2021 Tähtihoiva Oy.</p>
+    <p>Designed by Linako</p>
+  </footer>
+</body>
+</html>
