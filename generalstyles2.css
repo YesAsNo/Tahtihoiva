@@ -116,7 +116,7 @@ input[type="text"] {
 
 textarea {
   display: block;
-  width: 600px;
+  width: 400px;
   height: 150px;
   margin: 0 0 20px;
   padding: 8px 12px 10px 12px;
@@ -125,7 +125,7 @@ textarea {
 
 input[type="submit"] {
   display: block;
-  width: 200px;
+  width: 300px;
   margin: 0 0 20px;
   padding: 8px 0 10px 0;
   text-align: center;
