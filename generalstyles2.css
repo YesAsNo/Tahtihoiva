@@ -102,13 +102,13 @@ input::-moz-focus-inner {
 }
 
 form {
-  width: 600px;
-  margin: 50px auto;
+  width: 400px;
+  margin: 0 auto;
 }
 
 input[type="text"] {
   display: block;
-  width: 600px;
+  width: 400px;
   margin: 0 0 20px;
   padding: 8px 12px 10px 12px;
   border: 1px solid rgba(0,0,0,.5);
