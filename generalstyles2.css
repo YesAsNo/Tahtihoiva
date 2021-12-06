@@ -111,7 +111,7 @@ input[type="text"] {
   width: 400px;
   margin: 0 0 20px;
   padding: 8px 12px 10px 12px;
-  border: 1px solid white;
+  border: 1px white;
 }
 
 textarea {
@@ -120,7 +120,7 @@ textarea {
   height: 150px;
   margin: 0 0 20px;
   padding: 8px 12px 10px 12px;
-  border: 1px solid white;
+  border: 1px white;
 }
 
 input[type="submit"] {
@@ -129,7 +129,7 @@ input[type="submit"] {
   margin: 0 0 20px;
   padding: 8px 0 10px 0;
   text-align: center;
-  border: 1px solid white;
+  border: 1px white;
 }
 
 .container {
